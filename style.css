@@ -1,0 +1,233 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: url(photo/пейзаж2.jpg);
+}
+.bodypage2{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: url(photo/фондлятиффани.jpg);
+}
+.bodypage3{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: url(photo/фоннюши.jpg);
+}
+.bodypage4{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: url(photo/фонайса.jpg);
+}
+.bodypage5{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: url(photo/фонлинды.jpg);
+}
+.logo{
+    width: 400px; 
+    height: 277.54px; 
+    left: 770px; 
+    top: 157px; 
+    position: absolute;
+}
+.circle1{
+    left:250px; 
+    top: 600px; 
+    position: absolute;
+}
+.circle2{
+    left: 650px; 
+    top: 600px; 
+    position: absolute;
+}
+.circle3{
+    left: 1050px; 
+    top: 600px; 
+    position: absolute;
+}
+.circle4{
+    left: 1450px; 
+    top: 600px; 
+    position: absolute;
+}
+img{
+    width: 250px; 
+    height: 250px;
+}
+.img2{
+    width: 133px; 
+    height: 133px
+}
+a {
+    display: block;
+    position: relative;
+    width: 300px;
+}
+span {
+    width: 250px; 
+    height: 250px;
+    border-radius: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.span2 {
+    width: 133px; 
+    height: 133px;
+    border-radius: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+span {
+    border-radius: 150px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, .5);
+    opacity: 0;
+    color: #fff;
+    font-size: 40px;
+    transition: opacity .4s linear
+}
+span:hover {
+    opacity: 1;
+}
+.photo1{
+    width: 400px; 
+    height: 533.33px; 
+    left: 30px; 
+    top: 225px; 
+    position: absolute; 
+    border-radius: 20px;
+    border-radius: 20px; 
+    border: 10px #0C0C0C solid
+}
+.textblock1{
+    width: 540px; 
+    height: 533px; 
+    left: 790px; 
+    top: 225px; 
+    position: absolute; 
+    background: #A0A668; 
+    border-radius: 20px; 
+    border: 10px #201418 solid;
+}
+.title1{
+    left: 930px; 
+    top: 277px; 
+    position: absolute; 
+    color: black; 
+    font-size: 32px; 
+    font-family: Jost; 
+    font-weight: 400px; 
+    word-wrap: break-word;
+}
+.text1{
+    width: 414px;
+    height: 346px; 
+    left: 880px; 
+    top: 351px; 
+    position: absolute;
+    color: black; 
+    font-size: 24px; 
+    font-family: itim; 
+    font-weight: 400px; 
+    word-wrap: break-word;
+}
+.photo2{
+    width: 400px; 
+    height: 533.33px; 
+    left: 1300px; 
+    top: 205px; 
+    position: absolute; 
+    border-radius: 20px;
+    border: 10px #0C0C0C solid
+}
+.textblock2{
+    width: 540px; 
+    height: 533px; 
+    left: 500px; 
+    top: 200px; 
+    position: absolute; 
+    background: #F0ECD0; 
+    border-radius: 20px; 
+    border: 10px #A6290A solid;
+}
+.title2{
+    left: 670px; 
+    top: 277px; 
+    position: absolute; 
+    color: black; 
+    font-size: 32px; 
+    font-family: Jost; 
+    font-weight: 400px; 
+    word-wrap: break-word;
+}
+.text2{
+    width: 414px;
+    height: 346px; 
+    left: 580px; 
+    top: 351px; 
+    position: absolute;
+    color: black; 
+    font-size: 24px; 
+    font-family: itim; 
+    font-weight: 400px; 
+    word-wrap: break-word;
+}
+.photo3{
+    width: 400px; 
+    height: 397.82px;
+    left: 30px; 
+    top: 290px; 
+    position: absolute; 
+    border-radius: 20px;
+    border: 10px #0C0C0C solid
+}
+.textblock3{
+    width: 540px; 
+    height: 533px; 
+    left: 790px; 
+    top: 225px; 
+    position: absolute; 
+    background: #F0ECD0; 
+    border-radius: 20px; 
+    border: 10px #A6290A solid;
+}
+.item3{
+    width: 1422.75px; 
+    height: 640px; 
+    left: 700px; 
+    top: -526px; 
+    position: absolute; 
+    transform: rotate(49.95deg); 
+    transform-origin: 0 0;
+}
+.item2{
+    width: 1504px; 
+    height: 396px; 
+    left: 170px; 
+    top: 549px; 
+    position: absolute;
+}
+.textblock4{
+    width: 540px; 
+    height: 533px; 
+    left: 500px; 
+    top: 200px; 
+    position: absolute; 
+    background: #FDEBBB; 
+    border-radius: 20px; 
+    border: 10px #879138 solid;
+}
