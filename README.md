@@ -1,3 +1,5 @@
+крутые кружочки tap и милые зверюшки<3
+
 ![image](https://github.com/user-attachments/assets/6f78673e-61ec-430c-b746-d2950426e66b)
 
 ![image](https://github.com/user-attachments/assets/e2960706-707f-401b-aa22-172f25cee5ea)
